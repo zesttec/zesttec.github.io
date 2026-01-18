@@ -2,6 +2,7 @@
 title: "Research"
 permalink: /research/
 author_profile: true
+published: false
 ---
 
 My research focuses on system security and privacy, with particular emphasis on IoT ecosystems, access control, and networked systems. I also develop ML/NLP-based techniques to analyze protocols and large-scale network behavior.
