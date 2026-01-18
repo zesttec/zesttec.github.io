@@ -16,7 +16,7 @@ redirect_from:
 - B.Eng. in Computer Science and Technology, Shandong University (Sept 2014 - June 2018)
 
 ## Teaching Experience
-**Instructor on Record, Indiana University Bloomington**
+**Instructor of Record, Indiana University Bloomington**
 - CSCI-C 291 / INFO-E 111 System Programming with C and Unix (Spring 2026, Spring 2025, Spring 2024)
 - CSCI-B 430 / INFO-I 430 Security for Networked Systems (Fall 2025)
 
