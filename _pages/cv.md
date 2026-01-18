@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](/files/dongfang-zhao-cv.pdf)
-
 ## Education
 - Ph.D. in Computer Science, Indiana University Bloomington (Aug 2018 - 2026)
   - Major: System Security and Privacy; Minor: Applied Machine Learning
@@ -41,10 +39,6 @@ redirect_from:
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-
-## Research in Progress
-- DocuScope: Documentation-driven protocol security analysis via loose-end mining and agentic LLMs (targeting CCS 2026).
-- Shining Light into the Tunnel: Understanding and Detecting Network Traffic of Residential Proxies (arXiv 2024).
 
 ## Honors and Awards
 - Indiana University Bloomington-Luddy PhD Instructor Award (2025)

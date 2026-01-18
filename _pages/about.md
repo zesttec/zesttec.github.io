@@ -26,5 +26,3 @@ For full details, see the [Teaching](/teaching/) and [Research](/research/) page
 - Email: zhdongfang@outlook.com
 - LinkedIn: [dongfang-zhao-483224174](https://www.linkedin.com/in/dongfang-zhao-483224174/)
 - Location: Bloomington, IN, USA
-
-[Download CV (PDF)](/files/dongfang-zhao-cv.pdf)
