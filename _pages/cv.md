@@ -49,11 +49,11 @@ redirect_from:
 ## Honors and Awards
 - Indiana University Bloomington-Luddy PhD Instructor Award (2025)
 - Acknowledgments for proxy network suspicious traffic analysis discoveries from proxy providers (IPRoyal, Packetstream) (2023)
-- Briefing on Black Hat Asia (2021)
+- Briefing on Black Hat Asia (2021) ([program link](https://www.blackhat.com/asia-21/briefings/schedule/index.html#how-i-can-unlock-your-smart-door-security-pitfalls-in-cross-vendor-iot-access-control-21816))
 - Security research reported by DARKReading (2021)
-- Apple HomeKit design vulnerability: CVE-2020-9978 (vulnerability acknowledgments on macOS and iOS) (2020)
+- Apple HomeKit design vulnerability: CVE-2020-9978 (vulnerability acknowledgments on [macOS](https://support.apple.com/en-us/HT212011) and [iOS](https://support.apple.com/en-us/HT211850)) (2020)
 - Bounty for vulnerabilities in IoT cloud delegation (Samsung SmartThings, Philips Hue) (2019)
-- Acknowledgments from MSRC, AWS, IBM, Eclipse Mosquitto, Tuya Smart, Suning, and others (2019)
+- Acknowledgments from MSRC, AWS, IBM, Eclipse Mosquitto, Tuya Smart, Suning, and others (2019) ([MSRC acknowledgment](https://portal.msrc.microsoft.com/en-us/security-guidance/researcher-acknowledgments-online-services))
 
 ## Skills
 - Programming and development: Python, PHP/Hack, MySQL, C/C++, Java, JavaScript, HTML, CSS, Node.js, Apache, Flutter, AWS, Perl
