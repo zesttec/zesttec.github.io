@@ -16,8 +16,8 @@ I am a Ph.D. candidate in Computer Science at Indiana University Bloomington, fo
 - Security analysis with ML/NLP
 
 ## Teaching Highlights
-- Instructor on record for CSCI-C 291 / INFO-E 111 (System Programming with C and Unix)
-- Instructor on record for CSCI-B 430 / INFO-I 430 (Security for Networked Systems)
+- Instructor of record for CSCI-C 291 / INFO-E 111 (System Programming with C and Unix)
+- Instructor of record for CSCI-B 430 / INFO-I 430 (Security for Networked Systems)
 - Assistant instructor for graduate and upper-division security courses
 
 For full details, see the [Teaching](/teaching/) and [Research](/research/) pages.
