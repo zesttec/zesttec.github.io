@@ -160,6 +160,7 @@ analytics:
 
 # Reading Files
 include:
+  - _next
   - .htaccess
   - _pages
   - files
